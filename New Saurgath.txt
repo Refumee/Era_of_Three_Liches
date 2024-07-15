@@ -1,0 +1,54 @@
+
+Cearxis, Grand Matriarch of the Saurian realm
+Zzib, First Spear of the realm
+Saurax, Captain of the City Guard
+
+<show a SS of the map>
+By now, a bustling little metropolis by saurian standards, New Saurgath, nicknamed The Spice City, has risen from the ashes of Saurgath as the place to be, with urbanization attracting more and more saurians to the city, trading replacing the customary hunting and agriculture to a large extent. By some accounts, two thirds of all saurians in the bitter swamp live in or around New Saurgath. 
+<saurians discuss the upcoming festival>
+Cearxis, Grand Matriarch of the Saurian realm:
+The Star festival is soon upon us Zzib. We must prepare the young warriors to be annoited, prepare food and drinks. How go the preparations?
+Zzib, First Spear of the realm:
+I have gathered almost all the warriors of the realm here, the barracks will be sufficient to hold most of them, and the few that don't fit shall share quarters with the willing townsfolk. It will be a grand ceremony to honour all the realm and to be away at such a time would be a hard dissapointment to anyone. Many will come, many will stay after, too. The city grows at every opportunity.
+Saurax, Captain of the City Guard:
+Your loyal servant, please! The cityfolk offer their houses willingly, and any that don't fit can sleep in the barracks. Many tales shall be told, the city guard would be honoured to offer hospitality.
+
+Thus, the preparation were going well, and most of the saurian realm comes together at New Sarugath...
+
+<cut to the map>
+Marching eastwards, Pares-Na and his forces quickly come to the Bitter swamp. His plans relying on surprise, he orders his armies to take to the deep water and the densest parts of the swamp, trading speed for stealth, traveling at night. None disturb his passage bare a few wild animals and the mute underwater creatures, not understanding what is soon to transpire. Afer a seemingly endless march through the swamp waters, Pares-Na arrives at New Saurgath.
+
+<cut back to the map, showing the saurian army mostly out fo the city>
+Cearxis, Grand Matriarch of the Saurian realm:
+...and by these waters, I bless you, young and old, warrior or scribe, farmer or crafter, and may you all prosper!
+
+<the skeletons rise from the river>
+Cearxis, Grand Matriarch of the Saurian realm:
+What is this??? who brings such armies here???
+Pares-Na the Great Teacher:
+My name is Pares-Na, and I come to offer you a choice. Join us, and accept my rule, and I will teach you the art of necromancy. No longer shall you be limited with the handful of years of your pitiful life. Join us, and enter a new era for your people, one of peace, everlasting peace. No sickness and no death. Refuse, however...and you force my hand.
+Cearxis, Grand Matriarch of the Saurian realm: You come with an army and offer a choice?! We have had this offer before, from Vendraxis. Life is to be lived, and death is but a change. Everything is always changing, even the stars. You usurp the natural order of life and call it an art. Your intentions are clear even to the youngest hatchlings! Eternal servitude, death walking... You are an abomination on the face of this land, we shall never yield to such as you!
+Pares-Na the Great Teacher:
+You would throw these gifts back at my feet without even considering... Well then, it seems things are about to get chilly here.
+<adepts show up on the north edge of the map>
+<the undead slaughter the saurian army>
+
+Zzib, First Spear of the realm:
+They killed them all! My children, my people... We must avenge them and remove these horrors from this land!
+
+Saurax, Captain of the City Guard:
+Lord, we cannot risk you, please, you need to take the townsfolk to safety, we must retreat and regroup, they are too many!
+
+Zzib, First Spear of the realm:
+Retreat?! And let this evil persist? My family and my people dead, thier blood desecrating the Holy Water, I can not let this stand! We will attack before they manage to do more evil!
+
+Saurax, Captain of the City Guard:
+Sire, but what about the young ones, the old ones? We cannot let their fate be tied to this battle. Please, you must think of them too. If we lose here, we lose everyhting, if we retreat we save what can be saved.
+
+Zzib, First Spear of the realm:
+You are rigth Saurax. But I can not let this stand. You will take the young ones, the eggs and the old ones. Take them deep into the swamps and scatter. We might yet lose this battle, but someone must survive to rebuild after, or at least offer resistance. I charge you with the evacuation, and after the people are in safety, you must go east, and warn <who??> about this. Such an army will not stay here for long, they came prepared and it is obvious they are not losing any time.
+
+Saurax, Captain of the City Guard:
+I will do as you order, sire... May this not be a goodbye, and may we yet meet again.
+
+<play the battle>

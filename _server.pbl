@@ -1,0 +1,12 @@
+title="Era of the Three Liches"
+type="era"
+icon="units/undead-necromancers/ancient-lich.png"
+version="0.0.1"
+author="Refumee"
+passphrase="3liches"
+dependencies=Refumees_Saurian_Pack
+description="MP-Era for a MP-Session.
+
+0.0.1 Alpha Version
+"
+email="schattenkopie@yahoo.de"
