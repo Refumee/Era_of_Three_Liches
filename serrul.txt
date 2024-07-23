@@ -1,0 +1,76 @@
+Serrul, resting in the Sandy Wastes at the mouth of the Bay of Clouds is the the main trading port of the Dunefolk. Due to its geographical position and the relative abundance of water, it has become the main populace center for the Dunefolk. The number of merchants coming with their caravans there when the trade fleet comes back into port, the Serrul market is known far and wide as the place than anything can be procured...
+
+Jasur Maba, Overlord of Serrul
+Ragtayrah Alaman, Danwspeaker
+Hanan Amra, Duskcaller
+Raen Al-Munba, Fleet Commander
+
+Ragtayrah Alaman, Danwspeaker:
+Sir, the final caravan has entered the gates. It seems our trade grows every year. I have not set my eyes on such a sight as long as I remember.
+
+Jasur Maba, Overlord of Serrul:
+It seems in order Dawnspeaker, and perfectly timed as well, the fleet has been sighted passing Th'arwya 2 days ago. We expect them in port 2 dawns from today, if the weather holds.
+
+Hanan Amra, Duskcaller:
+Your regin has seeen us prosper Lord. I have yet to find a poet to do justice to your rule. If I didn't know better, I would say this is a golden age for our people. Even the beggars in the street sing your praises.
+
+Jasur Maba, Overlord of Serrul:
+It is well and I am happy, but I cannot take the credit for the circumstances, everybody has done their share of work and we should all rejoice. We should plan a feast to celebrate this, you two should come together and find us a suitable date after the caravans leave.
+
+Ragtayrah Alaman, Danwspeaker:
+As you command Lord, as it should be.
+
+Hanan Amra, Duskcaller:
+As you command sire and as it should be.
+
+<cut to journey>
+
+Moving south through the Sandy Wastes, the undead army passes swiftly and unnoticed. The seemingly endless, silent desert feels at peace, with only the march of feet and clinking of weapons breaking the silence. The few wandering inhabitants, scratching a living in the desert are swiftly seen by the bloodbats and hunted down by apparitions they barely see let alone understand. The army marches thorugh the night, as the heat of the day is so great, even the undead have their strenght sapped, and the few of the living can not march under such conditions. In a matter of a score of days, the army arrives at Serrul...
+
+<cut back to serrul map>
+Raen Al-Munba, Fleet Commander:
+Lord, all the ships have been unloaded, and if I can beg your leave, it is time to go see my youngests and my wife. It has been a long year.
+
+Jasur Maba, Overlord of Serrul:
+Commander Al-Munba, your oldest has taken service with the Dawnspeaker at my behest while you were away, your family name now thrice recorded in the Scrolls of Service. I congratulate you and may you have a peaceful rest and find nothing but more good tidings when you enter your door.
+
+Raen Al-Munba, Fleet Commander:
+Ah, my Lord, you do us honor again, we are but a pale reflection of your glory. May Dawn always find you healthy and at peace!
+
+Ragtayrah Alaman, Danwspeaker:
+Sir! An army! Sighted at the ruins!!! What is happening?
+
+Hanan Amra, Duskcaller:
+Sir! Unknown forces to the north-east of the city! The populace is panicking!
+
+<Echeron de Filgast with 2 guards travels just outside the city gates>
+Jasur Maba, Overlord of Serrul::
+Who goes there, why are your companions showing naked steel?
+
+Echeron de Filgast:
+My name is Echeron de Filgast, peasant, and I have come to take control of this city and all your lands. Hand over the keys to the city, and lay down your weapons and you shall enter my service in one piece.
+
+Jasur Maba, Overlord of Serrul:
+Peasant? Enter your service? What madness is this? Go back whence you came, filth, and come back to abase before your head adorns my hounds playground.
+
+Echeron de Filgast:
+So you decline, eh? I have not expected anything more from such a tribesman. Feast while you can, your days are at an end.
+<Echeron de Filgast goes back to his camp>
+
+Jasur Maba, Overlord of Serrul:
+Dawnspeaker, sound the Red Horn, it seems we have a battle at our hands. We must protect the merchants. Duskcaller, you will summon Commander Al-Munba.
+
+Ragtayrah Alaman, Danwspeaker:
+As you command Lord!
+
+Hanan Amra, Duskcaller:
+As you command sire!
+
+<Hanan Amra dissapears, the appears back with Raen Al-Munba>
+
+Jasur Maba, Overlord of Serrul:
+Recall your sailors, there is not a moment to waste. The city is being attacked and I need you to take charge of the evacuation. We hope to be victorious, but we must prepare for the worst. You shall stand on the water and observe well. There is no time to load supplies so grab only those who we can afford. If we lose, make all sail to Westin. We must rely on their help if we were to fail here.
+
+Raen Al-Munba, Fleet Commander:
+As you command Lord, as it will be.
+
