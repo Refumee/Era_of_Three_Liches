@@ -2,10 +2,8 @@ Todo:
 
 Add objective about the possibility of fleeing
 
-Weldyn links to Farzi, no link to Arkhaaz' first battle.
-
-Weldyn links to Westin, no link to Serrul' first battle.
-
-Fog on the ice Farzi
-
 Farzi, add mechanic to make the undeads want to take the fort
+
+Dwarven doors -- incorrect objective text -missing campign intro text/path
+
+-missing campign intro text/path x3
