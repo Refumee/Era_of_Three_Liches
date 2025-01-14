@@ -7,3 +7,18 @@ Farzi, add mechanic to make the undeads want to take the fort
 Dwarven doors -- incorrect objective text -missing campign intro text/path
 
 -missing campign intro text/path x3
+
+Redo intro -- does not feel undead atm
+
+
+swamp -> 4 turns clear, 4 turns light rain, 4 turns medium rain, 1 turn heavy rain, rest of turns light rain and thunder.
+
+lintanir remove basic sunrays
+
+serrul: midday heatshimmers+sunrays, avoid trees/mountain and only in the northen part
+
+weldyn: wind over entire map, not at night, no sound
+
+westin: fog that starts at midnigt, end at morning
+
+dwarven doors: magical land in the south camp, cave quakes in the north camp
