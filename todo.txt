@@ -7,9 +7,3 @@ Dwarven doors -- incorrect objective text -missing campign intro text/path
 -missing campign intro text/path x3
 
 Redo intro -- does not feel undead atm
-
-weldyn: wind over entire map, not at night, no sound
-
-westin: fog that starts at midnigt, end at morning
-
-dwarven doors: magical land in the south camp, cave quakes in the north camp
