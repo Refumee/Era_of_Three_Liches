@@ -1,6 +1,4 @@
 Todo:
 
-Farzi, add mechanic to make the undeads want to take the fort
-
 -missing campign intro text/path x3
 
