@@ -2,8 +2,5 @@ Todo:
 
 Farzi, add mechanic to make the undeads want to take the fort
 
-Dwarven doors -- incorrect objective text -missing campign intro text/path
-
 -missing campign intro text/path x3
 
-Redo intro -- does not feel undead atm
