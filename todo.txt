@@ -3,6 +3,3 @@ Todo:
 warn  player that the living side will lose 6 times in a row. It is a question about managing a tactical retreat. The living side can retreat and has to pick the best moment to do so. Retreating will allow all units to be recalled later but will also increase to gold carryover for the undeads, the later you retreat the less gold for the liches..
 
 "Triumvirate of Malevolence" ToM name change
-
-#to dwarven doors 
-	journey dont exist yet, need all three direction to go at once. May want to speed it up (too slow animation)
