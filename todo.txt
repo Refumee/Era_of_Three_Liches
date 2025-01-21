@@ -7,3 +7,5 @@ depricated code used
 add epiloge option for when a lich lose early
 
 edit all objectives, nex text and new carryover
+
+todos found in epilogue
